@@ -8,15 +8,15 @@
     <modelVersion>4.0.0</modelVersion>
  
     <groupId>com.senai</groupId>
-    <artifactId>aula07devops</artifactId>
+    <artifactId>projetodevops</artifactId>
     <version>1.0-SNAPSHOT</version>
  
-    <name>aula07devops</name>
+    <name>projetodevops</name>
  
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <maven.compiler.source>21</maven.compiler.source>
-        <maven.compiler.target>21</maven.compiler.target>
+        <maven.compiler.source>25</maven.compiler.source>
+        <maven.compiler.target>25</maven.compiler.target>
     </properties>
  
     <dependencies>
